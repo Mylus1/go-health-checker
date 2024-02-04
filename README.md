@@ -12,3 +12,7 @@ Check using the following command:
 go run . --domain facebook.com
 ```
 
+To Add:
+
+Extended error handling
+Testing
